@@ -1,0 +1,40 @@
+body
+{
+  background-color: #90EE90;
+}
+
+h3
+{
+  color: #393b44;
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dashed;
+  border-color: black;
+  border-width: 6px;
+  width: 100%;
+}
+
+.redh1
+{
+  color:red;
+
+}
+
+.img1
+{
+  height: 100%;
+  width: 95%;
+}
+
+.mas:hover
+{
+  color: purple;
+}
+
+#enl
+{
+  font-size: 13pt;
+}
